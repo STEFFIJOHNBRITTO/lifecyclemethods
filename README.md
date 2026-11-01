@@ -149,6 +149,12 @@ activity_main.xml
 
 <img width="1917" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf21b339-c95e-4ce3-875e-762e645957cd" />
 
+<img width="1917" height="971" alt="Screenshot 2026-11-01 233435" src="https://github.com/user-attachments/assets/dd823051-54c5-4437-be97-533001ff6ef1" />
+
+<img width="1917" height="957" alt="Screenshot 2026-11-01 233548" src="https://github.com/user-attachments/assets/2e94e69d-b522-4567-91a8-e7f2c3f8f735" />
+
+<img width="1917" height="1085" alt="image" src="https://github.com/user-attachments/assets/26be55fd-84b6-423c-b5db-888a74c1c00b" />
+
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
